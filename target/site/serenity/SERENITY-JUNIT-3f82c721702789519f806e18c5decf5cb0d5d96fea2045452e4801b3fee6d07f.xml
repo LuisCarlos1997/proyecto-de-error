@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="I as a user want to book a ticket to travel to space" skipped="0" tests="1" time="41.03" timestamp="2022-12-13 11:22:55"><testcase name="login in the pages"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stepsdefinitions.LoginStepsdefinition.luisOpenThePagesTheSpace(LoginStepsdefinition.java:28)&#13;
+✽.Luis open the pages the space(src/test/resources/features/login.feature:5)&#13;
+</system-err></testcase></testsuite>

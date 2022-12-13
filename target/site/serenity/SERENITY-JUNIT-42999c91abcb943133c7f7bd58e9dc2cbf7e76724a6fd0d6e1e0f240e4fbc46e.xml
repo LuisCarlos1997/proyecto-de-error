@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="I as a user want to book a ticket to travel to space" skipped="0" tests="1" time="0.36" timestamp="2022-12-13 11:55:20"><testcase name="Travel to espace page"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.stepsdefinitions.LogindosStepsdefinition.luisOpenThPages(LogindosStepsdefinition.java:26)&#13;
+✽.Luis open th pages(src/test/resources/features/logindos.feature:4)&#13;
+</system-err></testcase></testsuite>
